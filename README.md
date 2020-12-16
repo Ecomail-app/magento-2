@@ -1,13 +1,13 @@
-# Magento 2.x plugin pro propojení s Ecomail.cz
+# Magento 2.x plugin for Ecomail.app
 
-Aktuální verzi pluginu lze stáhnout zde:
+You can download latest plugin version here:
 
-https://github.com/Ecomailcz/magento-2/releases/download/1.0.0/Ecomail_Ecomail-magento2-1.0.0.zip
+https://github.com/Ecomail-app/magento-2/releases/download/1.0.0/Ecomail_Ecomail-magento2-1.0.0.zip
 
-# Instalace modulu
+# Module installatino
 
-1. Překopírovat obsah archivu do kořenové složky
-2. příkaz. řádka: php bin/magento module:enable Ecomail_Ecomail
-3. příkaz. řádka: php bin/magento setup:upgrade
-4. příkaz. řádka: php bin/magento setup:static-content:deploy
-5. příkaz. řádka: php bin/magento cache:clean
+1. Copy archive contets into root directory
+2. CMD: php bin/magento module:enable Ecomail_Ecomail
+3. CMD: php bin/magento setup:upgrade
+4. CMD: php bin/magento setup:static-content:deploy
+5. CMD: php bin/magento cache:clean
